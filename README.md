@@ -27,5 +27,8 @@ Install required libraries with:
 bash
 Copy code
 pip install -r requirements.txt
+
+
 💡 Usage
+
 Each assignment or project folder contains a README with specific instructions for running the code and interpreting results. Refer to these files for details on individual exercises.
